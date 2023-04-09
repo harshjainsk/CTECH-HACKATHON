@@ -27,7 +27,7 @@ const Home = () => {
             <div className="w-full">
               <p className="text-xl  mb-6">
               Our technology aims to streamline the  insurance claims process and improve accuracy, providing customers with a faster and more efficient claims experience.              </p>
-              <button className=" mt-3 rounded-lg text-2xl  font-medium bg-green-500 px-6 py-3 hover:bg-green-600 text-black">Get Started</button>
+              <button className=" mt-3 rounded-lg text-2xl border-green-400   font-medium bg-green-400 px-6 py-3 hover:bg-green-300 text-black">Get Started</button>
             </div>
           
         </div>
